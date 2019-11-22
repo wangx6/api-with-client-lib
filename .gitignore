@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Ignore distribution files from repo
+dist/*
+client/dist/*
+server/dist/*

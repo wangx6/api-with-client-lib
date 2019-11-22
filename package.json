@@ -1,0 +1,31 @@
+{
+  "name": "teckro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ucl.js",
+  "scripts": {
+    "api": "nodemon server/src/api.js",
+    "db": "node server/src/db-setup/index.js",
+    "test": "jest",
+    "dev": "concurrently --kill-others \"nodemon server/src/api.js\" \"gulp\" \"webpack --watch\" \"http-server -p 9090  -c-1\"",
+    "build": "webpack -p",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^16.1.7",
+    "bootstrap": "^4.3.1",
+    "concurrently": "^5.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "mysql": "^2.17.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "jest": "^24.9.0"
+  }
+}

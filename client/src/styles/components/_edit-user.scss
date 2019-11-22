@@ -1,0 +1,21 @@
+.tk-edit-user-c{
+	background-color: $white;
+	border-radius: 10px;
+	position: fixed;
+	padding: 20px 20px 30px 20px;
+
+	.tk-edit-user-btn-c{
+		margin-top: 20px;
+	}
+
+	.tk-edit-user-name{
+		font-size: 1.2rem;
+		text-align: right;
+		font-weight: bold;
+		text-transform: capitalize;
+	}
+	.tk-edit-user-userid{
+		font-size: 0.9rem;
+		text-align: right;
+	}
+}

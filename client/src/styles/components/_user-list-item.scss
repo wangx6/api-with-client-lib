@@ -1,0 +1,24 @@
+.tk-user-list-item-root{
+	padding: 10px 10px 10px 20px;
+	.tk-user-list-item-c{
+		@extend .d-flex;
+		@extend .justify-content-between;
+		@extend .align-items-center;
+
+		.tk-btn{
+			margin-right: 10px;
+		}
+	}
+
+	.tk-user-list-item-field-c{
+		width: 100%;
+	}
+
+	.tk-user-list-item-field{
+		width: 33%;
+	}
+}
+
+.tk-user-list-item-root:nth-child(odd) {
+	background-color: $grey-xx-light;
+}
