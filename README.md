@@ -1,4 +1,4 @@
-## What this test is trying to demostrate?
+## What this project is trying to demostrate?
 - High level architecture design (tier based design and clearly define the responsibility for each.)
 - Low level architecture design (modules, components)
 - ES6 (server is built with ES6)
