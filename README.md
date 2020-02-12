@@ -53,7 +53,7 @@ npm run test OR npm run test:watch
 
 ## File Base Diagram  
 A file based diagram can be useful for fast knowlege transfer or debugging. Not only it provides an overview of all the files that are involved but also offers us a visual of the files combined with its responsibility within the entire system.
-![alt text](https://github.com/moshea/teckro-wangx6/blob/develop/docs/file-based.diagram.PNG "File Based Diagram")
+![alt text](https://github.com/wangx6/api-with-client-lib/blob/master/docs/file-based.diagram.PNG "File Based Diagram")
 [lucidchart shareable link](https://www.lucidchart.com/invitations/accept/a801f66e-0ef2-47c8-9ecc-c276dcbd12d3)
 
 
