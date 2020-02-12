@@ -46,7 +46,7 @@ npm run test OR npm run test:watch
 ```  
 
 ## Components Based Diagram        
-![alt text](https://github.com/moshea/teckro-wangx6/blob/develop/docs/components-based.diagram.PNG "Components Based Diagram")
+![alt text](https://github.com/wangx6/api-with-client-lib/blob/master/docs/components-based.diagram.PNG?raw=true "Components Based Diagram")
 [lucidchart shareable link](https://www.lucidchart.com/invitations/accept/902232a3-effc-4326-a376-a166a3480d79)
 
 
