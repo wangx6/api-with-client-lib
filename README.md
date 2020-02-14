@@ -59,3 +59,7 @@ A file based diagram can be useful for fast knowlege transfer or debugging. Not 
 
 ## Author     
 Yinghan Wang, wangx6@gmail.com
+
+
+## Licence
+Proprietary license
